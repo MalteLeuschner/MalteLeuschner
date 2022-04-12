@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Credit Risk modelling at the intersection of statistical modelling and ML
 - 🌱 I’m currently learning MLOps, how to bring something into production, and ML robust systems
 - 👯 I’m looking to collaborate on all kinds of topics related to my research on credit risk and transfer learning. 
-- 📫 How to reach me: Send me a pull request ;) 
+- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/malte-leuschner/)
 
